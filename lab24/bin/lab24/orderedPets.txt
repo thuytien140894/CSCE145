@@ -1,0 +1,76 @@
+Name: Abu
+Age: 10 years
+Weight: 13.0 pounds
+
+Name: Buck
+Age: 12 years
+Weight: 21.0 pounds
+
+Name: Buddy
+Age: 45 years
+Weight: 43.0 pounds
+
+Name: Cheetah
+Age: 23 years
+Weight: 32.0 pounds
+
+Name: Fantom
+Age: 43 years
+Weight: 44.0 pounds
+
+Name: Fehona
+Age: 11 years
+Weight: 22.0 pounds
+
+Name: Flash
+Age: 32 years
+Weight: 23.0 pounds
+
+Name: Grey
+Age: 12 years
+Weight: 22.0 pounds
+
+Name: Gus
+Age: 34 years
+Weight: 32.0 pounds
+
+Name: Hermes
+Age: 14 years
+Weight: 41.0 pounds
+
+Name: Iago
+Age: 22 years
+Weight: 33.0 pounds
+
+Name: Indigo
+Age: 65 years
+Weight: 21.0 pounds
+
+Name: Ladybug
+Age: 4 years
+Weight: 12.0 pounds
+
+Name: Leo
+Age: 7 years
+Weight: 30.0 pounds
+
+Name: Magic
+Age: 9 years
+Weight: 20.0 pounds
+
+Name: Meeko
+Age: 32 years
+Weight: 12.0 pounds
+
+Name: Mocha
+Age: 10 years
+Weight: 21.0 pounds
+
+Name: Palmer
+Age: 3 years
+Weight: 10.0 pounds
+
+Name: Panda
+Age: 6 years
+Weight: 21.0 pounds
+
