@@ -1,0 +1,7 @@
+The price for a CD by the Ramones:
+
+     Barnes & Nobles: $6.99
+
+     Walmart: $7.98
+
+The price for the CD is more expensive at Walmart than at Barnes & Nobles.
